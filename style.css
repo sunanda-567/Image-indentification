@@ -1,0 +1,21 @@
+body{
+    background:rgb(241, 87, 87);
+    color: rgb(16, 2, 17);
+}
+
+.heading{
+    width:80%;
+    font-size:22px;
+}
+
+.Name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color: snow ;
+}
+
+#camera, #result
+{
+    border: dotted 10px rgb(252, 101, 0);
+    width: 350px;
+    height: 300px;
+}
